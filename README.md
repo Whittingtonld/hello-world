@@ -1,2 +1,2 @@
 # hello-world
-this is description 
+I'm Lawrence i'm a computer science major
